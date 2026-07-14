@@ -1,0 +1,17 @@
+COMO COLOCAR AS SUAS FOTOS
+
+1. Dentro da pasta "imagens", salve as fotos com estes nomes:
+- banner.jpg (foto principal do topo do site)
+- cozinha-1.jpg
+- cozinha-2.jpg
+- banheiro-1.jpg
+- banheiro-2.jpg
+- banner-regiao.jpg (opcional)
+
+2. Abra o arquivo index.html no navegador.
+
+3. O telefone e o WhatsApp já estão configurados como:
+(38) 99881-4111
+
+4. O Instagram já está configurado como:
+@mendes.marmoraria

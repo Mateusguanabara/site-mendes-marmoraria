@@ -1,5 +1,11 @@
 const menuToggle = document.querySelector('.menu-toggle');
 const navMenu = document.querySelector('.nav-menu');
+const hamburger = document.querySelector('.hamburger-button'); // Veja se essa classe existe no HTML!
+const menu = document.querySelector('.nav-menu');
+
+hamburger.addEventListener('click', () => {
+    menu.classList.toggle('active');
+});
 
 menuToggle.addEventListener('click', () => {
     navMenu.classList.toggle('ativo');

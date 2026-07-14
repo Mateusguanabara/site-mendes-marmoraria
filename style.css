@@ -1016,6 +1016,16 @@ select {
     grid-template-columns: 1fr;
     gap: 35px;
   }
+  
+  /* Como o menu começa (escondido ou fora da tela) */
+.nav-menu {
+    display: none; /* Ou transform: translateX(100%); */
+}
+
+/* Como ele fica quando o JS adiciona a classe active */
+.nav-menu.active {
+    display: block; /* Ou transform: translateX(0); */
+}
 }
 
 @media (max-width: 680px) {
